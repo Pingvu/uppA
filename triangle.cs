@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-    class triangle: shape
+    class triangle : shape
     {
-        public triangle(): base(10,20){}
+        return
+         public triangle(int width, int height): base(width,height){
+             
+         }
         
     }

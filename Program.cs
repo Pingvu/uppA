@@ -2,11 +2,14 @@
 using System;
 
    class shape 
-   {
-    protected int width;
-    protected int height;
+   { 
+    protected int width = Int32.Parse(Console.ReadLine());
+    protected int height = Int32.Parse(Console.ReadLine()) ;
+        
      public shape(int width, int height){
         this.width = width;
-        this.height = height;
+        this.height=height;
      }
+     
    }
+   

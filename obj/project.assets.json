@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\uppA\\uppA.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Uniti-intro-main\\uppA\\uppA.csproj",
       "projectName": "uppA",
-      "projectPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\uppA\\uppA.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Uniti-intro-main\\uppA\\uppA.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\Visual Studio 2022\\uppA\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Uniti-intro-main\\uppA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
