@@ -3,3 +3,13 @@ C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\uppA.GeneratedMSBu
 C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\uppA.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\uppA.AssemblyInfo.cs
 C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\uppA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\bin\Debug\net6.0\uppA.exe
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\bin\Debug\net6.0\uppA.deps.json
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\bin\Debug\net6.0\uppA.runtimeconfig.json
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\bin\Debug\net6.0\uppA.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\bin\Debug\net6.0\uppA.pdb
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\uppA.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\refint\uppA.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\uppA.pdb
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\uppA.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\uppA\obj\Debug\net6.0\ref\uppA.dll

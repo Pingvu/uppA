@@ -3,8 +3,8 @@ using System;
 
    class shape 
    { 
-    protected int width = Int32.Parse(Console.ReadLine());
-    protected int height = Int32.Parse(Console.ReadLine()) ;
+    protected int width;
+    protected int height ;
         
      public shape(int width, int height){
         this.width = width;
