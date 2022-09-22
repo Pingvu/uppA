@@ -7,7 +7,7 @@ using System.Threading.Tasks;
  class shape 
    { 
     protected int width;
-    protected int height ;
+    protected int height;
         
      public shape(int width, int height){
         this.width = width;
