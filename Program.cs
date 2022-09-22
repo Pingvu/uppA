@@ -12,15 +12,15 @@ internal class program{
  int height = int.Parse((Console.ReadLine()));
 if (shape=="triangle"){
     shape1 =new Triangle(width,height);
-    int triArea= (shape1 as Triangle).Area();
-    int triOmkr= (shape1 as Triangle).Omkr();
+    int triArea= shape1.Area();
+    int triOmkr= shape1.Omkr();
     Console.WriteLine(triArea);
     Console.WriteLine(triOmkr);
 }
 else if (shape== "rectangle"){
     shape1 = new Rektangle (width,height);
-    int rekArea= (shape1 as Rektangle).Area();
-    int rekOmkr= (shape1 as Rektangle).Omkr();
+    int rekArea= shape1.Area();
+    int rekOmkr= shape1.Omkr();
     Console.WriteLine(rekArea);
     Console.WriteLine(rekOmkr);
 }
