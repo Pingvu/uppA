@@ -1,36 +1,31 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 
 internal class program{
 
- private static void main(string[] args){
+ private static void Main(){
 
-Console.WriteLine("triangle or rektangle?");
-string shape = Console.ReadLine();
-Console.WriteLine("Write width and height: ");
-int width = int.Parse((Console.ReadLine()));
-int height = int.Parse((Console.ReadLine()));
+ Console.WriteLine("triangle or rectangle?");
+ string shape = Console.ReadLine();
+ Console.WriteLine("Write width and height: ");
+ int width = int.Parse((Console.ReadLine()));
+ int height = int.Parse((Console.ReadLine()));
 if (shape=="triangle"){
-
-
-Triangle triangle =new Triangle(width,height);
-double triArea= triangle.Area();
-double triOmkr= triangle.Omkr();
-Console.WriteLine(triArea);
-Console.WriteLine(triOmkr);
+    shape shape1 =new Triangle(width,height);
+    int triArea= (shape1 as Triangle).Area();
+    int triOmkr= (shape1 as Triangle).Omkr();
+    Console.WriteLine(triArea);
+    Console.WriteLine(triOmkr);
 }
-else if (shape== "rektangle"){
-    Rektangle rektangle = new Rektangle (width,height);
-    double rekArea= rektangle.Area();
-double rekOmkr= rektangle.Omkr();
-Console.WriteLine(rekArea);
-Console.WriteLine(rekOmkr);
+else if (shape== "rectangle"){
+    shape shape2 = new Rektangle (width,height);
+    int rekArea= (shape2 as Rektangle).Area();
+    int rekOmkr= (shape2 as Rektangle).Omkr();
+    Console.WriteLine(rekArea);
+    Console.WriteLine(rekOmkr);
 }
 else{
-    Console.WriteLine("Please write only rektangle or triangle.");
+    Console.WriteLine("Please write either rectangle or triangle.");
 }
 }
 }

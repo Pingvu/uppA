@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-namespace uppA;
+
  class shape 
    { 
     protected int width;
@@ -12,6 +12,12 @@ namespace uppA;
      public shape(int width, int height){
         this.width = width;
         this.height=height;
+     }
+     public virtual int Area (){
+         return 0;
+     }
+     public virtual int Omkr(){
+              return 0;
      }
      
    }
